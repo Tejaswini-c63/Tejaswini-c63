@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tejaswini C</h1>
 <h3 align="center">I’m a 4th-year Computer Science Engineering student with a strong passion for full-stack web development. Over the years, I’ve gained hands-on experience working with technologies like HTML, CSS, JavaScript, Gen-AI, Artificial Intelligence and Machine Learning.</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence, Cybersecurity Fundamentals, Prompt Engineering.**
+ 🌱 I’m currently learning **Artificial Intelligence, Cybersecurity Fundamentals, Prompt Engineering.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
